@@ -2,9 +2,7 @@
   TODO List
 </h1>
 
-API para gerenciar tarefas (CRUD) que faz parte [desse desafio](https://github.com/simplify-liferay/desafio-junior-backend-simplify) para pessoas desenvolvedoras backend júnior, afim de por em pratica seu conhecimento na linguagem java utilizando o framework Spring.
-
-O projeto foi elaborado a partir deste video [nesse vídeo](https://youtu.be/IjProDV001o).
+API para gerenciar tarefas (CRUD) afim de por em pratica o conhecimento na linguagem java utilizando o framework Spring.
 
 ## Tecnologias
  
